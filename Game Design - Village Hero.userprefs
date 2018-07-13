@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\moveFire.cs">
+    <Files>
+      <File FileName="Assets\Scripts\movePlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\moveStone.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\villageManager.cs" Line="68" Column="22" />
+      <File FileName="Assets\Scripts\FireFlicker.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\moveFire.cs" Line="20" Column="19" />
+      <File FileName="Assets\Scripts\buttonNavigation.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\cutTree.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\placeWood.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\placeWall.cs" Line="40" Column="25" />
+      <File FileName="Assets\Scripts\burnPlayer.cs" Line="37" Column="30" />
+      <File FileName="Assets\Scripts\cliffSpeedBoost.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
