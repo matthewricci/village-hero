@@ -14,4 +14,5 @@ Vivian Zhao (vz341@nyu.edu)
 
 # Playing it
 Builds for the game can be found in the Builds folder. One one is available at the moment, which is the main build that was submitted at the end of the semester.
+
 The game controls best using an **Xbox One controller** and was designed for a screen resolution of **1024 x 768** (select this on the Unity configuration screen that pops up before the game starts).
