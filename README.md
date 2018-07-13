@@ -1,6 +1,6 @@
 # Village Hero
 Village Hero is a 2D time-based strategy game that challenges players to save a vulnerable village from imminent danger.
-The game was built by four students during CS4553 - Game Design, a class taught by Andy Nealen at NYU Tandon School of Engineering. It was created entirely with Unity.
+The game was built by four students during CS4553 Game Design, a class taught by Andy Nealen at NYU Tandon School of Engineering. It was created entirely with Unity.
 
 # Creators
 
